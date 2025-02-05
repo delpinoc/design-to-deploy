@@ -1,5 +1,5 @@
 # Connect 4
-Jorge Martin Del Pino Contreras 
+Jorge Martin Del Pino Contreras  
 [jorgemartin.delpinoc@gmail.com](mailto:jorgemartin.delpinoc@gmail.com)
 
 ## Index
